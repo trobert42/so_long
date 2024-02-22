@@ -1,4 +1,4 @@
-# So_long
+# 2D Game - MiniLibX
 
 A simple top-down game in 2D where you have to get all the collectables to win. This is the first game project, it is to aim to discover graphical environment with the school graphical library MiniLibX.
 I had so much fun managing the movements through the event system and choosing textures/colors.
