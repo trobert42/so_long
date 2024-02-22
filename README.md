@@ -22,4 +22,4 @@ If you use WSL and have some trouble with "can't find a suitable x11 include dir
 
 ## Screenshots
 
-<img alt="so_long_bonus" src="so_long_clip.gif">
+![](https://github.com/trobert42/so_long/blob/main/so_long_bonus_clip.gif)
