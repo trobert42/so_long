@@ -1,7 +1,6 @@
 # 2D Game - MiniLibX
 
 A simple top-down game in 2D where you have to get all the collectables to win. This is the first game project, it is to aim to discover graphical environment with the school graphical library MiniLibX.
-I had so much fun managing the movements through the event system and choosing textures/colors.
 
 |    Project Name    |                                                                       so_long                                                                       |
 | :----------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -20,6 +19,13 @@ I had so much fun managing the movements through the event system and choosing t
 
 If you use WSL and have some trouble with "can't find a suitable x11 include directory", i suggest to follow those steps here: https://harm-smits.github.io/42docs/libs/minilibx/getting_started.html#getting-a-screen-on-windows-10-wsl2
 
+## 💬
+I thoroughly enjoyed handling movement control through the event system and selecting textures and colors.
+
+My firsts sprites were some random pokemon pictures, but i don't have any clean video clip of it :(
+
 ## Screenshots
+
+<sub><sub>Yeah, as you thought, there's no sense in a wood trunk eating pizzas..</sub></sub>
 
 ![](https://github.com/trobert42/so_long/blob/main/so_long_bonus_clip.gif)
