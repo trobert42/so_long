@@ -19,6 +19,16 @@ A simple top-down game in 2D where you have to get all the collectables to win. 
 
 If you use WSL and have some trouble with "can't find a suitable x11 include directory", i suggest to follow those steps here: https://harm-smits.github.io/42docs/libs/minilibx/getting_started.html#getting-a-screen-on-windows-10-wsl2
 
+## Commands
+`A` : move to the left
+
+`D` : move to the right
+
+`W` : move forward
+
+`S` : move back
+
+
 ## 💬
 I thoroughly enjoyed handling movement control through the event system and selecting textures and colors.
 
